@@ -1,0 +1,8 @@
+com/yuj/dev/cookbook/models/User.class
+com/yuj/dev/cookbook/repos/RecipeRepo.class
+com/yuj/dev/cookbook/models/Ingredient.class
+com/yuj/dev/cookbook/controllers/RecipeController.class
+com/yuj/dev/cookbook/controllers/UserController.class
+com/yuj/dev/cookbook/models/Recipe.class
+com/yuj/dev/cookbook/repos/UserRepo.class
+com/yuj/dev/cookbook/CookbookApplication.class

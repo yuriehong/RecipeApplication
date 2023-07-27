@@ -1,0 +1,5 @@
+export const apiBaseUrl = 'https://recipecookbookapi.azurewebsites.net'
+export const apiRecipePath = 'recipeApi'
+export const recipes = 'recipes'
+export const recipe = 'recipe'
+export const userId = '27d3c42e-5ca1-427c-acea-92c833e6c097'
